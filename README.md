@@ -3,7 +3,7 @@
 <img align="right" alt="coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=death-thekidd" alt="death-thekidd" /></a> </p>
 
-<p align="left"> <a href="https://twitter.com/Death_thekidd" target="blank"><img src="https://img.shields.io/twitter/follow/Death_thekidd?logo=twitter&style=for-the-badge" alt="Death_thekidd" /></a> </p>
+<p align="left"> <a href="https://twitter.com/Death__thekidd" target="blank"><img src="https://img.shields.io/twitter/follow/Death__thekidd?logo=twitter&style=for-the-badge" alt="Death__thekidd" /></a> </p>
 
 - 🌱 I’m currently learning **Solidity**
 
