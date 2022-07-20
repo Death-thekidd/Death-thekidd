@@ -7,15 +7,15 @@
 
 - 🌱 I’m currently learning **Solidity**
 
-- 👨‍💻 All of my projects are available at [https://github.com/Death-thekidd](htps://github.com/Death-thekidd)
+- 👨‍💻 All of my projects are available at [Portfolio](https://divine-portfolio.netlify.app/)
 
-- 📝 I regularly write articles on [https://twitter.com/Death__thekidd?t=k7onse4dEB0PlDc4da9Clw&s=08](https://twitter.com/Death__thekidd?t=k7onse4dEB0PlDc4da9Clw&s=08)
+- 📝 I regularly write articles on [Twitter](https://twitter.com/Death__thekidd?t=k7onse4dEB0PlDc4da9Clw&s=08)
 
 - 💬 Ask me about **react, node and Javascript**
 
 - 📫 How to reach me **ohiemidivine7@gmail.com**
 
-- 📄 Know about my experiences [www.linkedin.com/in/death-thekidd](www.linkedin.com/in/death-thekidd)
+- 📄 Know about my experiences [Linkedin](www.linkedin.com/in/death-thekidd)
 
 - ⚡ Fun fact **I think I am funny lol**
 
