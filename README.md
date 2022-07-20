@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **Solidity**
 
-- 👨‍💻 All of my projects are available at [https://github.com/Death-thekidd](https://github.com/Death-thekidd)
+- 👨‍💻 All of my projects are available at [https://github.com/Death-thekidd](htps://github.com/Death-thekidd)
 
 - 📝 I regularly write articles on [https://twitter.com/Death__thekidd?t=k7onse4dEB0PlDc4da9Clw&s=08](https://twitter.com/Death__thekidd?t=k7onse4dEB0PlDc4da9Clw&s=08)
 
