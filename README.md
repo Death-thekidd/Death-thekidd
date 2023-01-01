@@ -8,7 +8,7 @@
 
 - 🌱 I’m currently learning **Solidity**
 
-- 👨‍💻 All of my projects are available at [Portfolio](https://divine-portfolio.netlify.app/)
+- 👨‍💻 All of my projects are available at [Portfolio](https://my-portfolio-death-thekidd.vercel.app/)
 
 - 📝 I regularly write articles on [Twitter](https://twitter.com/Death__thekidd?t=k7onse4dEB0PlDc4da9Clw&s=08)
 
