@@ -10,7 +10,7 @@
 
 - 👨‍💻 All of my projects are available at [Portfolio](https://my-portfolio-death-thekidd.vercel.app/)
 
-- 📝 I regularly write articles on [Twitter](https://twitter.com/Death__thekidd?t=k7onse4dEB0PlDc4da9Clw&s=08)
+- 📝 I regularly write articles on [Twitter](https://twitter.com/Deaththekidd404?t=lElWlNMFQ8yadK8U4za1AA&s=09)
 
 - 💬 Ask me about **react, node and Javascript**
 
