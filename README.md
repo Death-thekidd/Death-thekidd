@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Attah-Ohiemi Divine</h1>
-<h3 align="center">A 17 year old full-stack developer from Nigeria</h3>
+<h3 align="center">A 19 year old full-stack developer from Nigeria</h3>
 <img align="right" alt="coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=death-thekidd&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
